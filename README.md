@@ -57,9 +57,10 @@
 - **[Embedded System]** - C/C++ IoT Control System  
 - **[Automation Tool]** - Python + .NET Core  
 
+<!---
 ---
 
-## 🤙 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 �𝙚
+## 🤙 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 m𝙚
 
 <p align="center">
   <a href="https://linkedin.com/in/seu-linkedin">
@@ -71,7 +72,7 @@
   <a href="https://twitter.com/seu-twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-</p>
+</p> --->
 
 ---
 
@@ -79,4 +80,4 @@
   <img src="https://komarev.com/ghpvc/?username=RedCat&label=Profile%20views&color=0e75b6&style=flat" alt="RedCat" />
 </p>
 
-<!--- [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=allredcat&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) ---!>
+<!--- [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=allredcat&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) --->
